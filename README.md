@@ -10,8 +10,8 @@
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-## About Me ![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif)
-
+![](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif)
+## About Me 
 🎓 I'm a CS grad student at Syracuse Uninversity\
 💡 Exploring anything and everything about Computer Science\
 💬 Ask me about Python, SQL, PL/SQL, C and Linux\
