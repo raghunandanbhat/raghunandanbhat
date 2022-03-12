@@ -10,8 +10,8 @@
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 ##
-<img alt="developer gif" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="center" />
 🎓 I'm a CS grad student at Syracuse Uninversity\
 💡 Exploring anything and everything about Computer Science\
 💬 Ask me about Python, SQL, PL/SQL, C and Linux\
 ✉️ Reach me: raghunandan.bhat96@gmail.com
+<img alt="developer gif" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="center" />
