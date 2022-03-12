@@ -9,10 +9,9 @@
 <a href="mailto:raghunandan.bhat96@gmail.com">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-![developer gif]()
-## About Me 
 
-<img alt="developer gif" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right"/>
+## About Me 
+<img alt="developer gif" width="200px" height="200px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="right" />
 
 🎓 I'm a CS grad student at Syracuse Uninversity\
 💡 Exploring anything and everything about Computer Science\
