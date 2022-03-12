@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Raghunandan 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Raghunandan 
 
 <a href="https://www.linkedin.com/in/raghunandan-bhat/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -11,7 +11,7 @@
 </a>
 </br>
 </br>
-## &nbsp;About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px">
+&nbsp;About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px">
 
 🎓&nbsp;I'm a CS grad student at Syracuse Uninversity\
 💡&nbsp;Exploring anything and everything about Computer Science\
