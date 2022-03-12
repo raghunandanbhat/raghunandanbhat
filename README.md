@@ -11,7 +11,7 @@
 </a>
 </br>
 </br>
-##About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px">
+# About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px" img align="left">
 
 🎓 I'm a CS grad student at Syracuse Uninversity\
 💡 Exploring anything and everything about Computer Science\
