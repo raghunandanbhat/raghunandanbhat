@@ -15,4 +15,4 @@
 🎓 &nbsp;I'm a CS grad student at Syracuse Uninversity\
 💡 &nbsp;Exploring anything and everything about Computer Science\
 💬 &nbsp;Ask me about Python, SQL, PL/SQL, C and Linux\
-✉️ &nbsp;Reach me: raghunandan.bhat96@gmail.com \
+✉️ &nbsp;Reach me: raghunandan.bhat96@gmail.com\
