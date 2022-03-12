@@ -1,4 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Raghunandan 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Raghunandan 
 
 <a href="https://www.linkedin.com/in/raghunandan-bhat/">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
@@ -9,9 +9,8 @@
 <a href="mailto:raghunandan.bhat96@gmail.com">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
-
+##
 <img alt="developer gif" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" align="center" />
-## About Me 
 🎓 I'm a CS grad student at Syracuse Uninversity\
 💡 Exploring anything and everything about Computer Science\
 💬 Ask me about Python, SQL, PL/SQL, C and Linux\
