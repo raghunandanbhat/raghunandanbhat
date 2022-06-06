@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Raghunandan
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="9px"> I'm Raghunandan
 
 <a href="https://www.linkedin.com/in/raghunandan-bhat/">
   <img align="left" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
